@@ -14,7 +14,7 @@ I'm a Front-end web developer from Colombia, passionate about learning and teach
 
 ## 📚Studying
 ✓ React JS <br>
-✓ <img src="https://raw.githubusercontent.com/ronaldtorres/ronaldtorres/master/.github/swift.png?token=AKSAOI2J25IPBNRHSPK3LL27ENPWG" width="14"> Swift <br>
+✓ <img src="https://raw.githubusercontent.com/ronaldtorres/ronaldtorres/master/.github/swift.png?token=AKSAOI2J25IPBNRHSPK3LL27ENPWG" width="12"> Swift <br>
 
 ## 🖤 I really enjoy
 👨🏽‍💻 Coding <br>
