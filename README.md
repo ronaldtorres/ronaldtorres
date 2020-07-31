@@ -10,7 +10,7 @@ I'm a Front-end web developer from Colombia, passionate about learning and teach
 ✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/js.png" width="12"> Javascript <br>
 ✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/vue.png" width="12"> VueJS <br>
 ✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/node-js.png" width="12"> NodeJS <br>
-✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/php.png" width="12"> PHP <br>
+✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/php.png" width="14"> PHP <br>
 
 ## 📚Studying
 → <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/react.png" width="12"> React JS <br>
