@@ -20,3 +20,4 @@ I'm a Front-end web developer from Colombia, passionate about learning and teach
 👨🏽‍💻 Coding <br>
 🎸 Playing guitar <br>
 🎤 Singing
+🏓 Playing table tennis
