@@ -2,7 +2,7 @@
 
 Welcome to my github profile! 🥳
 
-I'm a Front-end web developer from Colombia, passionate about learning and teaching.
+I'm a Full-stack web developer from Colombia, passionate about learning and teaching.
 
 ## ⚡️Skills
 ✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/html5.png" width="14"> HTML <br>
