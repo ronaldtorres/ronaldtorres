@@ -13,6 +13,7 @@ I'm a Front end web developer from Colombia, passionate about learning and teach
 ✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/php.png" width="14"> PHP <br>
 
 ## 📚Studying
+→ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/go.png" width="12"> Go <br>
 → <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/swift.png" width="12"> Swift <br>
 
 ## 🖤 I really enjoy
